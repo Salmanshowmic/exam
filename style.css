@@ -1,0 +1,205 @@
+.wrapper{
+	overflow: hidden;
+	width: 80%;
+}
+
+.wrapper1{
+	/*border: 2px solid green;*/
+	width: 49%;
+	float: left;
+}
+
+.wrapper2{
+	/*border: 2px solid green;*/
+	width: 49%;
+	float: right;
+}
+
+.header{
+
+}
+
+.name{
+	/*border: 2px solid red;*/
+	height: 250px;
+	position: relative;
+
+}
+
+.name img{
+	width: 20%;
+	height: 125px;
+	position: absolute;
+	left: 171px;
+	top: 0px;
+
+}
+
+.name1{
+	position: absolute;
+	top: 130px;
+	left: 250px;
+	transform: translate(10%, 5%);
+
+}
+.name h2{
+	position: absolute;
+	top: -6px;
+    left: -74px;
+	transform: translate(10%, 5%);
+}
+.name h3{
+	position: absolute;
+	top: 14px;
+    left: -69px;
+	transform: translate(10%, 5%);
+}
+.name h6{
+	position: absolute;
+	top: 25px;
+    left:-58px;
+	transform: translate(10%, 5%);
+	display: inline-block;
+}
+
+.profile{
+	/*border: 2px solid red;*/
+	height: 250px;
+	position: relative;
+		
+}
+.profile img{
+	width: 45px;
+	height: 45px;
+	display: inline-block;
+}
+.profile h2{
+	color: blue;
+	display: inline-block;
+	position: absolute;
+	    top: -8px;
+    left: 43px;
+}
+.img2{
+	position: absolute;
+	    top: 5px;
+    left: 159px;
+}
+.contact{
+	/*border: 2px solid red;*/
+	height: 250px;
+	position: relative;
+}
+.contact img{
+	width: 45px;
+	height: 45px;
+	display: inline-block;
+}
+.contact h2{
+	color: blue;
+	display: inline-block;
+	position: absolute;
+	    top: -8px;
+    left: 43px;
+}	
+
+.contact1{
+	color: blue;
+	float: left;
+	position: absolute;
+	    top: 101px;
+    left: 37px;
+
+}
+.contact2{
+	float: right;
+	position: absolute;
+	    top: 102px;
+    left: 330px;
+
+}
+.skill{
+	/*border: 2px solid red;*/
+	height: 350px;
+	position: relative;
+
+}
+.skill img{
+	width: 45px;
+	height: 45px;
+	display: inline-block;
+}
+.skillh2{
+	color: blue;
+	display: inline-block;
+	position: absolute;
+	    top: -8px;
+    left: 43px;
+}	
+.skilldiv{
+	display: inline-block;
+	position: absolute;
+	top: 87px;
+    left: 102px;
+}
+.skill h5{
+	    margin-bottom: -19px;
+	        margin-top: -23px;
+}
+.skilldiv h6{
+	color: blue;
+}
+.edu{
+	/*border: 2px solid blue;*/
+	height: 350px;
+	position: relative;
+}
+.edu img{
+	width: 45px;
+	height: 45px;
+	display: inline-block;
+}
+.edu h2{
+	color: blue;
+	display: inline-block;
+	position: absolute;
+	    top: -8px;
+    left: 43px;
+}	
+
+.xp{
+	/*border: 2px solid red;*/
+	height: 400px;
+	position: relative;
+}
+
+.xp img{
+	width: 45px;
+	height: 45px;
+	display: inline-block;
+}
+.xp h2{
+	color: blue;
+	display: inline-block;
+	position: absolute;
+	    top: -8px;
+    left: 43px;
+}	
+
+
+.soft{
+	/*border: 2px solid blue;*/
+	height: 270px;
+	position: relative;
+}
+.soft img{
+	width: 45px;
+	height: 45px;
+	display: inline-block;
+}
+.soft h2{
+	color: blue;
+	display: inline-block;
+	position: absolute;
+	    top: -8px;
+    left: 43px;
